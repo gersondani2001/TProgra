@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+canvas {
+  margin: 0 !important;
+  background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
